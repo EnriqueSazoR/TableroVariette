@@ -1,9 +1,9 @@
 # Empresa Variette 
 - Proyecto realizado para el respectivo análisis sobre las ventas de una empresa en los diferentes paises asi cómo el rendimiento de todas las categorías de productos que tienen a sus disposición. (todos son datos ficticios, únicamente con el afán de aprendizaje)
 
-- # Vista Inicio
+ # Vista Inicio
   
-- ![PáginaInicio](https://github.com/user-attachments/assets/f4f7079c-b93b-46fa-ac35-98cda3cb72f1)
+ ![PáginaInicio](https://github.com/user-attachments/assets/f4f7079c-b93b-46fa-ac35-98cda3cb72f1)
 
 # Vista Paises
 - contiene el análisis de cada país y las ventas que estos han aportado, así como el listado de los clientes pertenecientes a cada país.
